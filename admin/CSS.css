@@ -1,0 +1,88 @@
+#div1{
+	text-align:center;
+	border-left:5px;
+	border-left-color:black;
+	border-left-style:solid;
+	border-right-color:black;
+	border-right:5px;
+	border-right-style:solid;
+	border-top-color:black;
+	border-top:5px;
+	border-top-style:solid;
+	margin-left:15%;
+	margin-right:15%;
+	padding-top:5%;
+	background-color:white;
+	padding-bottom:300px;
+}
+body{
+	background-color:#3d3d3d;
+	margin:0;
+}
+#form {
+  margin: 0 auto;
+  width: 843px;
+  padding: 10px;
+  border: 1px solid #CCC;
+  border-radius: 1em;
+  margin-top:50px;
+}
+
+form div + div {
+  margin-top: 1em;
+}
+
+label {
+  display: inline-block;
+  width: 235px;
+  text-align: right;
+}
+
+input, textarea {
+  font: 1em sans-serif;
+  width: 300px;
+  box-sizing: border-box;
+  border: 1px solid #999;
+}
+
+input:focus, textarea:focus {
+  border-color: #000;
+}
+
+.button {
+  padding-left: 90px;
+}
+
+button {
+  margin-left:.5em;
+}
+#id-bt:hover{
+	background-color: RGBa(200,000,000,0.25);
+    border-top-color: red;
+    border-top-width: 3px;
+    padding-top: 1px;
+	margin-top:-2px;
+}
+.lien{
+	background-color:red;
+	border:2px black solid;
+	border-radius:30px;
+	text-decoration:none;
+	color:black;
+	padding:20px 20px 20px 20px;
+	font-size:23px;
+	margin-right:10px;
+	margin-left:10px;
+}
+#monImage {
+	width: 26.66px;
+    height: 23.33px;
+}
+.show-password {
+	margin-left: 664px;
+    margin-top: -23px;
+    display: flex;
+}
+#select{
+	width: 400px;
+}
