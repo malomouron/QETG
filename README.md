@@ -32,13 +32,20 @@ cd qetg
 
    ```php
    <?php
-   // config.inc.php
-
-   $db_host = 'localhost';       // Hôte de la base de données
-   $db_user = 'votre_utilisateur'; // Utilisateur de la base de données
-   $db_pass = 'votre_mot_de_passe'; // Mot de passe de la base de données
-   $db_name = 'qetg';              // Nom de la base de données
+      // config.inc.php
+   
+   	$servername = "localhost";
+   	$username = "root";
+   	$password = "";
+   	$dbname = "";
+   	$domaine = 'localhost';
+   	$expediteur   = 'email@domain.com';
+   	$site_key = ''; //G-capcha key
+   	$os = "windos"; //[windos|linux]
+   	$myprivatekey = "";
+   	$nombreDeQuizAfficher = 5;
    ?>
+	
    ```
 
 
