@@ -68,3 +68,9 @@ Utilisez les identifiants créés au préalable dans la base de données.
 ## Support
 
 Pour toute question ou problème, merci de contacter l'équipe de développement ou de créer une issue sur le dépôt GitHub.
+
+
+
+## Contributions
+
+Les contributions sont les bienvenues ! Si vous souhaitez apporter des améliorations ou ajouter des fonctionnalités, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
