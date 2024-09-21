@@ -20,7 +20,7 @@ cd qetg
 
 ### 2. Configuration de la base de données
 
-1. Importez le modèle de base de données fourni (ici)[https://github.com/malomouron/QETG/blob/main/QETG.sql] :
+1. Importez le modèle de base de données fourni [ici](https://github.com/malomouron/QETG/blob/main/QETG.sql) :
 
    - Utilisez un client MySQL ou phpMyAdmin pour importer le fichier SQL du modèle :
    
