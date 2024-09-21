@@ -49,12 +49,12 @@ cd qetg
    ```
 
 
-### 5. Démarrage de l'application
+### Démarrage de l'application
 
 - Assurez-vous que votre serveur web est configuré pour exécuter des scripts PHP.
 - Accédez à votre projet via l'URL locale (ex. : `http://localhost/quiz/`).
 
-### 5. Connexion
+### Connexion
 
 Utilisez les identifiants créés au préalable dans la base de données.
 
